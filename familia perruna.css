@@ -1,0 +1,23 @@
+
+
+body{
+    background-color:#00b4d8;
+   
+
+
+}   
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+    border-color:#e63946 ;
+    color:#219ebc ;
+     font: size 1100px;; 
+}
+h2{
+    font-family:'Courier New', Courier, monospace ;
+    border-color:#57cc99 ;
+    color:#219ebc;
+
+p{
+    color: overscroll-behavior-block: ;
+}

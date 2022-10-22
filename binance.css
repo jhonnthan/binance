@@ -1,0 +1,9 @@
+body{
+    background-color:#fefae0 ;
+}
+nav li{
+    display: inline;
+    background-color: rgb(66, 212, 8);
+    padding: 9px 60px;
+    border: 1px solid black ;
+}
